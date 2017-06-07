@@ -1,0 +1,13 @@
+Characters:
+	[Done] The Frog
+	[Done] Administrator
+
+Power-ups:
+	[Done] Pills: Speed up
+	[Done] Red Vestment: +3 seconds
+	[Done] Tank: Freeze Admin for 2 seconds
+	Ukulele: Play "Aloha Oe" (?)
+	Pepper/Beilou: Can attack Admin
+	Pen: Can leave dark ink to slow admin
+	Gouqi: Undecided
+	
